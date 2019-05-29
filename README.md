@@ -1,3 +1,5 @@
 Ovo je prva linija teksta
 
-Ovo je druga linija teksta i jos nesto
+Ovo je druga linija teksta!!!
+
+OVO JE TRECA LINIJA KODA.
